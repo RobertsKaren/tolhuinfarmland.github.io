@@ -38,19 +38,19 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-   whyus:
+  whyus:
     title: "Why us"
      text: " "
      section: whyus
      # left is the default
      #start_align: "left"
-     events:
-       - title: "Our Humble Beginnings"
-         year: "2009-2011"
-         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-         image: assets/img/timeline/1.jpg
-         alt:
-      - title: "An Agency is Born"
+  #   events:
+  #     - title: "Our Humble Beginnings"
+  #       year: "2009-2011"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#         image: assets/img/timeline/1.jpg
+#         alt:
+#      - title: "An Agency is Born"
 #         year: "March 2011"
 #         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 #         image: assets/img/timeline/2.jpg
