@@ -42,6 +42,16 @@ en: &DEFAULT_EN
     title: "Why us"
      text: " "
      section: whyus
+     list:
+       - title: "Sustainable agriculture"
+         desc: "We are committed to sustainable agriculture. We want to leave our carbon footprint."
+         icon: fas fa-flask #find more at https://fontawesome.com/icons
+       - title: "Decisions based on data"
+         desc: "We make decisions based on data. Technology is our main axis; With it we seek to analyze, model and predict the behavior of crops and the factors that may intervene in the process to reduce possible risks and improve yield."
+         icon: fas fa-handshake #fas fa-globe-americas
+       - title: "Due diligence"
+         desc: "For each investment we rely on conducting due diligence, in this way we are granting reliability for each process."
+         icon: fas fa-hand-holding-usd
      # left is the default
      #start_align: "left"
   #   events:
