@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "    "
     section: services
     list:
-      - title: "Smart Partners  AA"
+      - title: "Smart Partners"
         desc: "Our preferred client agreement with 17-Minerals provides our farms with disruptive fertilizing technology at break-even cost."
         icon: fas fa-flask #find more at https://fontawesome.com/icons
       - title: "Smarter Farmers"
@@ -40,14 +40,14 @@ en: &DEFAULT_EN
 
   whyus:
     title: "Why us"
-     text: " "
+     text: "  "
      section: whyus
      list:
        - title: "Sustainable agriculture"
          desc: "We are committed to sustainable agriculture. We want to leave our carbon footprint."
          icon: fas fa-flask #find more at https://fontawesome.com/icons
        - title: "Decisions based on data"
-         desc: "We make decisions based on data. Technology is our main axis; With it we seek to analyze, model and predict the behavior of crops and the factors that may intervene in the process to reduce possible risks and improve yield."
+         desc: "We make data driven decisions. Technology is is our core axis; through which we analyze, model and predict the behavior of crops and the factors that may intervene in the process to reduce possible risks and improve yield."
          icon: fas fa-handshake #fas fa-globe-americas
        - title: "Due diligence"
          desc: "For each investment we rely on conducting due diligence, in this way we are granting reliability for each process."
